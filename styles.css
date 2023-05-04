@@ -1,0 +1,54 @@
+.main {
+    background: linear-gradient(to bottom right, rgb(143, 143, 215), #afb4e9);
+}
+
+.h1 {
+    background-color: rosybrown;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    border: 1cqb;
+    border-color: black;
+    border-style:double;
+    border-bottom-right-radius: 1cm;
+    border-bottom-left-radius: 1cm;
+    border-top-right-radius: 1cm;
+    border-top-left-radius: 1cm;
+    border-block-color: rgb(121, 36, 36);
+    color:black;
+    text-overflow: ellipsis;
+
+}
+.img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:1cqb;
+    border-style: double;
+
+}
+
+.picname, ul, ol {
+    text-align: center;
+    background:linear-gradient(to bottom right,rgb(159, 159, 209),rgb(112, 112, 220));
+    border: 0.2cqb;
+    border-style: solid;
+    border-bottom-right-radius: 1cm;
+    border-bottom-left-radius: 1cm;
+    border-top-right-radius: 1cm;
+    border-top-left-radius: 1cm;
+}
+
+
+
+h3 {
+    text-align: center;
+    font-weight: 700;
+    border:0.5cqb;
+    border-style: double;
+    border-bottom-right-radius: 1cm;
+    border-bottom-left-radius: 1cm;
+    border-top-right-radius: 1cm;
+    border-top-left-radius: 1cm;
+}

@@ -4,3 +4,5 @@ In this project, I am creating a website using HTML5 for different recipes. This
 
 With this mini-project, I will have demonstrated how to use HTML efficiently and how to navigate websites using absolute and relative links and images in my working directory. 
 
+This is project based off of The Odin Project. 
+
